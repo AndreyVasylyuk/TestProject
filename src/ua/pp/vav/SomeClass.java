@@ -16,7 +16,6 @@ public class SomeClass {
 
         System.out.println(result);
         
-        
      // look inside c:
         String greeting = "Hello";
         String s = greeting.substring(0,3);
@@ -29,5 +28,6 @@ public class SomeClass {
         System.out.println("listSize: " + listSize);
         
         System.out.println("some new text for git diff");
+        System.out.println("another new line");
 	}
 }
