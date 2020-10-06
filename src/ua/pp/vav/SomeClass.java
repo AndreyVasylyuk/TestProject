@@ -27,5 +27,6 @@ public class SomeClass {
         int listSize = myList.size();
         System.out.println("listSize: " + listSize);
         
+        System.out.println("some new text for git diff");
 	}
 }
