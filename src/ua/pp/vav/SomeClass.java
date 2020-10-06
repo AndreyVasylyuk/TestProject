@@ -16,6 +16,7 @@ public class SomeClass {
 
         System.out.println(result);
         
+        
      // look inside c:
         String greeting = "Hello";
         String s = greeting.substring(0,3);
