@@ -31,6 +31,9 @@ public class SomeClass {
         System.out.println("1-5 list:");
         for(int i = 0; i < 5; i++) {
             System.out.print(i);
+            if(i < 4) {
+                System.out.print(" ");
+            }
         }
         System.out.println();
 	}
