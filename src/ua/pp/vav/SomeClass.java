@@ -28,6 +28,10 @@ public class SomeClass {
         System.out.println("listSize: " + listSize);
         
         System.out.println("some new text for git diff");
-        System.out.println("another new line");
+        System.out.println("1-5 list:");
+        for(int i = 0; i < 5; i++) {
+            System.out.print(i);
+        }
+        System.out.println();
 	}
 }
