@@ -20,12 +20,12 @@ public class SomeClass {
         String greeting = "Hello";
         String s = greeting.substring(0,3);
         
-        ArrayList<Egg> myList = new ArrayList<Egg>();
-        Egg egg1 = new Egg();
-        myList.add(egg1);
-        myList.add(new Egg());
-        int listSize = myList.size();
-        System.out.println("listSize: " + listSize);
+//        ArrayList<Egg> myList = new ArrayList<Egg>();
+//        Egg egg1 = new Egg();
+//        myList.add(egg1);
+//        myList.add(new Egg());
+//        int listSize = myList.size();
+//        System.out.println("listSize: " + listSize);
         
         System.out.println("some new text for git diff");
         System.out.println("1-5 list:");
