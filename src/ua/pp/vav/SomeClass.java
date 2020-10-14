@@ -36,5 +36,6 @@ public class SomeClass {
             }
         }
         System.out.println();
+        System.out.println("changed for master branch");
 	}
 }
